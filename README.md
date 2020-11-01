@@ -1,0 +1,2 @@
+# MicrosoftOfficeTranslator
+一个可以将ppt、word通过调用端口进行翻译并保存的python程序
